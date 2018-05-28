@@ -1,0 +1,20 @@
+1-th place with a score   21: 	AFC Bournemouth
+2-th place with a score   20: 	Everton
+3-th place with a score   17: 	Crystal Palace
+  LOOSER!  With a score   17: 	Leicester City
+  LOOSER!  With a score   16: 	Manchester City
+  LOOSER!  With a score   15: 	Sunderland
+  LOOSER!  With a score   14: 	Chelsea
+  LOOSER!  With a score   14: 	Manchester United
+  LOOSER!  With a score   14: 	Middlesbrough
+  LOOSER!  With a score   13: 	Hull City
+  LOOSER!  With a score   13: 	Liverpool
+  LOOSER!  With a score   12: 	Burnley
+  LOOSER!  With a score   12: 	Stoke City
+  LOOSER!  With a score   11: 	West Ham United
+  LOOSER!  With a score   10: 	West Bromwich Albion
+  LOOSER!  With a score   9: 	Watford
+  LOOSER!  With a score   7: 	Tottenham Hotspur
+  LOOSER!  With a score   6: 	Arsenal
+  LOOSER!  With a score   6: 	Southampton
+  LOOSER!  With a score   5: 	Swansea City
